@@ -1,0 +1,11 @@
+{
+	"classes": 2,
+	"class_names": [
+		"background",
+		"building"
+	],
+	"class_dic": {
+		"background": 0,
+		"building": 1
+	}
+}
