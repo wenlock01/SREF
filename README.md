@@ -1,2 +1,2 @@
 # SREF
-A weak framework for learning.
+A weakly supervised learning framework 
